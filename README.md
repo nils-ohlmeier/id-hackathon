@@ -20,6 +20,8 @@ When testing with Firefox nightly I sometimes get an "unreadable" error on gUM, 
 
 ## Mozilla's Martin's code
 
+- https://github.com/martinthomson/.well-known
+
 ## Cisco's Fluffy's code
 
 - https://github.com/fluffy/rtcweb-identity
